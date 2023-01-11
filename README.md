@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ghullam Murtaza</h1>
-<h3 align="center">A passionate Flutter developer from Pakistan</h3>
+<h3 align="center">A passionate Flutter Mobile Application developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murtazaflutter&label=Profile%20views&color=0e75b6&style=flat" alt="murtazaflutter" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=murtazaflutter" alt="murtazaflutter" /></a> </p>
+
+- 🔭 I’m currently working on Full Stack project **Complete Grocery Shopping app with admin panel**
+
+- 🌱 I’m currently learning **firebase, Payment integration, google Map Integration**
+
+- 👯 I’m looking to collaborate on **Mobile Application Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/MurtazaFlutter?tab=repositories](https://github.com/MurtazaFlutter?tab=repositories)
 
 - 💬 Ask me about **Flutter, Dart and Firebase**
 
