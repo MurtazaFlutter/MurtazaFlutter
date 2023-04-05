@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Mobile Application Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MurtazaFlutter?tab=repositories](https://github.com/MurtazaFlutter?tab=repositories)
+- 👨‍💻 All of my open source projects are available at [https://github.com/MurtazaFlutter?tab=repositories](https://github.com/MurtazaFlutter?tab=repositories)
 
 - 💬 Ask me about **Flutter, Dart and Firebase**
 
